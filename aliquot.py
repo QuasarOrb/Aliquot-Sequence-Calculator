@@ -29,3 +29,4 @@ number = int(input("Enter the first number: "))
 # Calculate the aliquot sequence and get the highest term
 sequence, highest_term = aliquot_sequence(number)
 
+input('Enter to quit') 
